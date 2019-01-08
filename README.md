@@ -2,10 +2,10 @@
 
 - robotframework setup for windows 
 - created by NSIS
+- python3.7.2
 
-# includes
+### Robotframework Library
 ```
-python3.7.2
 robotframework==3.1
 robotframework-appiumlibrary==1.5.0.1
 robotframework-autoitlibrary==1.2.2
@@ -22,7 +22,7 @@ robotframework-requests==0.5.0
 robotframework-ride==1.7.3rc1
 robotframework-seleniumlibrary==3.3.1
 ```
-# OS
+### Supported OS
 |platform|arch|
 |---|-----|
 |win7|64bit|

@@ -4,7 +4,7 @@
 - created by NSIS
 - python3.7.2
 
-### Robotframework Library
+### Include Library
 ```
 robotframework==3.1
 robotframework-appiumlibrary==1.5.0.1

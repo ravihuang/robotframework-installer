@@ -1,6 +1,6 @@
-# RobotFramework Setup
+# RobotFramework installer
 
-- robotframework setup for windows 
+- robotframework installer for windows 
 - created by NSIS
 - python3.7.2
 

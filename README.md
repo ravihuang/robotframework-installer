@@ -1,6 +1,6 @@
 # RobotFramework installer
 
-- robotframework installer for windows 
+- RIDE+rRbotFramework installer for windows 
 - created by NSIS
 - python3.7.2
 

@@ -28,3 +28,9 @@ robotframework-seleniumlibrary==3.3.1
 |win7|64bit|
 |win10|64bit|
 |win7|32bit|
+
+### pip
+please rfpip install new package:
+```
+rfpip install psycopg2
+```

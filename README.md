@@ -4,8 +4,8 @@
 - created by NSIS
 - python3.7.2
 
-### Download
-please download the .exe file from releases
+### Installer file
+Please download the .exe file from the last release
 
 ### Include Library
 ```

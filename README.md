@@ -32,7 +32,7 @@ robotframework-seleniumlibrary==3.3.1
 |win7|32bit|
 
 ### How to install
-- download latest .exe file release
+- download latest .exe release file
 - double click the exe file and Click Next...
 
 ### How to install new library:

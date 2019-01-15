@@ -4,6 +4,9 @@
 - created by NSIS
 - python3.7.2
 
+### Download
+please download the .exe file from releases
+
 ### Include Library
 ```
 robotframework==3.1

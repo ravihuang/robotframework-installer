@@ -33,7 +33,7 @@ robotframework-seleniumlibrary==3.3.1
 
 ### How to install
 - download latest .exe release file
-- double click the exe file and Click Next...
+- double click the exe file and click 'Next' button
 
 ### How to install new library:
 please use rfpip to install new package:

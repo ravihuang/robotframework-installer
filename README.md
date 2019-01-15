@@ -5,7 +5,7 @@
 - python3.7.2
 
 ### Installer file
-Please download the .exe file from the last release
+Please download the .exe file from the latest release
 
 ### Include Library
 ```

@@ -3,7 +3,7 @@ This is a windows installer created by [NSIS3](https://nsis.sourceforge.io/Downl
 
 **Latest release - [RobotFrameworkSetup-v9.1.exe](https://github.com/ravihuang/robotframework-installer/releases/latest)**
 
-### Include Library
+### Involved Library
 ```
 python3.7.2
 robotframework-ride==1.7.3rc1

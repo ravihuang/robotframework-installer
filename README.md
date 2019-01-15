@@ -1,14 +1,14 @@
 # RobotFramework installer
+This is a windows installer, integrates [python3], [RobotFramework] test framework, [RIDE] editor and some robotframework libraries.
 
-- RIDE+rRbotFramework installer for windows 
 - created by NSIS
-- python3.7.2
 
-### Installer file
-Please download the .exe file from the latest release
+**Latest release - [RobotFrameworkSetup-v9.1.exe](https://github.com/ravihuang/robotframework-installer/releases/latest)**
 
 ### Include Library
 ```
+python3.7.2
+robotframework-ride==1.7.3rc1
 robotframework==3.1
 robotframework-appiumlibrary==1.5.0.1
 robotframework-autoitlibrary==1.2.2
@@ -22,7 +22,6 @@ robotframework-mongodblibrary==0.3.4
 robotframework-openstflibrary==0.1.1
 robotframework-redislibrary==0.3
 robotframework-requests==0.5.0
-robotframework-ride==1.7.3rc1
 robotframework-seleniumlibrary==3.3.1
 ```
 ### Supported OS
@@ -32,7 +31,11 @@ robotframework-seleniumlibrary==3.3.1
 |win10|64bit|
 |win7|32bit|
 
-### pip
+### How to install
+- download latest .exe file release
+- double click the exe file and Click Next...
+
+### How to install new library:
 please use rfpip to install new package:
 ```
 C:\Users\Administrator>rfpip install psycopg2

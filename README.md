@@ -1,15 +1,15 @@
 # RobotFramework installer
 This is a windows installer created by [NSIS3](https://nsis.sourceforge.io/Download), which integrates python3.7.2, [RobotFramework](https://github.com/robotframework/robotframework) test framework, [RIDE](https://github.com/HelioGuilherme66/RIDE) editor and some robotframework libs.
 
-**Latest release - [RobotFrameworkSetup-v9.1.1.exe](https://github.com/ravihuang/robotframework-installer/releases/latest)**
+**Latest release - [RobotFrameworkSetup-v9.1.2.exe](https://github.com/ravihuang/robotframework-installer/releases/latest)**
 
 ### Involved Library
 ```
 python3.7.2
-robotframework-ride==1.7.3.1
+robotframework-ride==1.7.4a1
 robotframework==3.1.1
-robotframework-appiumlibrary==1.5.0.2
-robotframework-autoitlibrary==1.2.2
+robotframework-appiumlibrary==1.5.0.4
+robotframework-autoitlibrary==1.2.4
 robotframework-csvlibrary==0.0.2
 robotframework-databaselibrary==1.1.1
 robotframework-debuglibrary==1.1.4
